@@ -219,7 +219,7 @@ const Talks = () => (
                 <iframe
                     width="560"
                     height="315"
-                    src="https://www.youtube.com/embed/jOmvPpzLMf8?start=3204"
+                    src="https://www.youtube.com/embed/jOmvPpzLMf8"
                     frameBorder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
